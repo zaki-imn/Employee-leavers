@@ -1,0 +1,100 @@
+Emp ID,Name,Action Type,Reason for Action,Position,Department,Last Date of Employment,salary
+1403,John,Resignation,Change of Career,Manager,Administration,7/1/2022,12605
+1408,Peter,Resignation,New Job Offer,Team Leader,General Services,6/21/2023,15406
+1418,GHI,Resignation,Family Reasons,Officer,Human Resouirces,6/30/2020,6363
+1415,JKL,Resignation,Moving Abroad,Senior Officer,Operations,7/1/2022,13636
+1409,MNO,Resignation,Work Related Stress,Analyst,Strategy,3/1/2023,2682
+1414,PQR,Resignation,Starting A Family,Senior Analyst,Communication,1/15/2021,8305
+1424,STU,Resignation,Medical Reasons,Assistant,Administration,1/1/2021,10039
+1401,NOOR,Resignation,Management Problems,Technician,Maintenance,4/21/2022,8581
+1411,Ahmed,Resignation,Salary Expectations,Mechanic,Maintenance,2/10/2022,12686
+1420,Maryam,Resignation,Lack of Career Opportunities,Helper,Maintenance,1/1/2022,11828
+1430,Nichole,Resignation,Starting Own Business,Accountant,Finance,12/31/2020,15326
+1402,Haithem,Resignation,Change of Career,Senior Accountant,Finance,1/1/2022,8161
+1421,Sarah,Resignation,New Job Offer,Controller,Finance,1/1/2021,16326
+1426,David,Resignation,Family Reasons,Assistant Accountant,Finance,12/16/2021,18572
+1436,Zahid,Resignation,Moving Abroad,Safety Officer,Health and Safety,12/14/2023,3374
+1405,VWX,Resignation,Work Related Stress,Senior Safety Officer,Health and Safety,1/20/2024,16043
+1427,YZA,Resignation,Starting A Family,Technical Officer,Maintenance,1/1/2022,2016
+1432,ABC,Resignation,Medical Reasons,Senior Technical Officer,Maintenance,11/1/2023,10952
+1442,DEF,Resignation,Management Problems,Procurement Officer,Procurement,4/22/2021,1600
+1439,HIJ,Resignation,Salary Expectations,Senior Procurement Officer,Procurement,9/1/2020,1577
+1433,KLM,Resignation,Lack of Career Opportunities,Senior Technician,Maintenance,9/16/2023,12733
+1438,NOP,Resignation,Starting Own Business,Senior Mechanic,Maintenance,11/1/2020,2445
+1448,QRS,Resignation,Change of Career,Welder,Maintenance,2/27/2021,5776
+1399,TUV,Resignation,New Job Offer,Rigger,Operations,2/22/2021,12379
+1407,XYZ,Resignation,Family Reasons,Driver,Administration,11/2/2020,7689
+1444,ABC01,Resignation,Moving Abroad,Coordinator,Operations,9/13/2020,19980
+1454,DEF01,Resignation,Work Related Stress,Senior Coordinator,Operations,9/25/2022,11699
+1398,HIJ01,Resignation,Starting A Family,Specialist,Operations,4/13/2021,8945
+1445,KLM01,Resignation,Medical Reasons,Senior Specialist,Operations,3/16/2024,18195
+1450,NOP01,Resignation,Management Problems,Manager,Operations,11/4/2020,3146
+1460,QRS01,Resignation,Salary Expectations,Team Leader,Maintenance,4/20/2024,17758
+1397,TUV01,Resignation,Lack of Career Opportunities,Officer,Health and Safety,1/28/2022,13647
+1451,XYZ01,Resignation,Starting Own Business,Senior Officer,Health and Safety,12/30/2020,16227
+1456,ABC02,Resignation,Change of Career,Analyst,Human Resouirces,11/2/2023,1964
+1466,DEF02,Resignation,New Job Offer,Senior Analyst,Strategy,4/30/2022,17686
+1396,HIJ02,Resignation,Family Reasons,Assistant,General Services,5/27/2022,1751
+1457,KLM02,Resignation,Moving Abroad,Technician,Maintenance,12/10/2021,2402
+1462,NOP02,Resignation,Work Related Stress,Mechanic,Maintenance,10/15/2021,12065
+1472,QRS02,Resignation,Starting A Family,Helper,Operations,10/18/2021,13684
+1395,TUV02,Resignation,Medical Reasons,Accountant,Finance,7/1/2022,4201
+1463,XYZ02,Resignation,Management Problems,Senior Accountant,Finance,12/1/2022,15423
+1468,ABC03,Resignation,Salary Expectations,Controller,Finance,12/26/2021,10571
+1478,DEF03,Resignation,Lack of Career Opportunities,Assistant Accountant,Finance,3/1/2023,14883
+1394,HIJ03,Resignation,Starting Own Business,Safety Officer,Health and Safety,3/1/2023,9583
+1469,KLM03,Resignation,Change of Career,Senior Safety Officer,Health and Safety,5/24/2022,11764
+1474,NOP03,Resignation,New Job Offer,Technical Officer,Maintenance,3/1/2023,7071
+1484,QRS03,Resignation,Family Reasons,Senior Technical Officer,Maintenance,3/1/2023,10726
+1393,TUV03,Resignation,Moving Abroad,Procurement Officer,Procurement,3/1/2023,2081
+1475,XYZ03,Resignation,Work Related Stress,Senior Procurement Officer,Procurement,3/1/2023,7642
+1480,ABC04,Resignation,Starting A Family,Senior Technician,Maintenance,3/1/2023,17979
+1490,DEF04,Resignation,Medical Reasons,Senior Mechanic,Maintenance,11/1/2020,7845
+1392,HIJ04,Resignation,Management Problems,Welder,Maintenance,3/1/2023,13215
+1481,KLM04,Resignation,Salary Expectations,Rigger,Operations,10/16/2021,11781
+1486,NOP04,Resignation,Lack of Career Opportunities,Driver,Administration,5/1/2021,9780
+1496,QRS04,Resignation,Starting Own Business,Coordinator,Operations,3/1/2023,11168
+1380,TUV04,Resignation,Change of Career,Senior Coordinator,Communication,3/1/2023,13706
+1487,XYZ04,Resignation,New Job Offer,Specialist,Health and Safety,6/5/2023,5666
+1492,ABC05,Resignation,Family Reasons,Senior Specialist,Human Resouirces,3/1/2023,13451
+1502,DEF05,Resignation,Moving Abroad,Manager,Information Technology,6/5/2023,17359
+1381,HIJ05,Resignation,Work Related Stress,Team Leader,General Services,3/1/2023,2730
+1493,KLM05,Resignation,Starting A Family,Officer,Health and Safety,3/1/2023,18021
+1498,NOP05,Resignation,Medical Reasons,Senior Officer,Maintenance,3/1/2023,4677
+1508,QRS05,Resignation,Management Problems,Analyst,Information Technology,3/1/2023,16888
+1382,TUV05,Resignation,Salary Expectations,Senior Analyst,Information Technology,6/5/2023,17329
+1499,XYZ05,Resignation,Lack of Career Opportunities,Assistant,Operations,5/1/2021,16182
+1504,ABC06,Resignation,Starting Own Business,Technician,Maintenance,3/1/2023,15953
+1514,DEF06,Resignation,Change of Career,Mechanic,Maintenance,6/3/2021,20026
+1383,HIJ06,Resignation,New Job Offer,Helper,Maintenance,3/1/2023,7557
+1505,KLM06,Resignation,Family Reasons,Accountant,Finance,2/2/2023,14628
+1510,NOP06,Resignation,Moving Abroad,Senior Accountant,Finance,10/3/2020,15739
+1520,QRS06,Resignation,Work Related Stress,Controller,Finance,3/1/2023,13722
+1384,TUV06,Resignation,Starting A Family,Assistant Accountant,Finance,3/1/2023,17895
+1511,XYZ06,Resignation,Medical Reasons,Safety Officer,Health and Safety,3/1/2023,1885
+1516,ABC07,Resignation,Management Problems,Senior Safety Officer,Health and Safety,3/1/2023,17397
+1526,DEF07,Resignation,Salary Expectations,Technical Officer,Maintenance,3/1/2023,8969
+1385,HIJ07,Resignation,Lack of Career Opportunities,Senior Technical Officer,Maintenance,12/30/2022,4684
+1517,KLM07,Resignation,Starting Own Business,Procurement Officer,Procurement,12/30/2022,18352
+1522,NOP07,Resignation,Change of Career,Senior Procurement Officer,Procurement,7/1/2022,16617
+1532,QRS07,Resignation,New Job Offer,Senior Technician,Maintenance,12/30/2022,10612
+1386,TUV07,Resignation,Family Reasons,Senior Mechanic,Maintenance,12/30/2022,15307
+1523,XYZ07,Resignation,Moving Abroad,Welder,Maintenance,3/1/2023,6382
+1528,ABC08,Resignation,Work Related Stress,Rigger,Operations,12/30/2022,1796
+1538,DEF08,Resignation,Starting A Family,Driver,Administration,3/1/2023,1632
+1387,HIJ08,Resignation,Medical Reasons,Coordinator,Operations,3/1/2023,18563
+1529,KLM08,Resignation,Management Problems,Senior Coordinator,Operations,3/1/2023,19700
+1534,NOP08,Resignation,Salary Expectations,Specialist,Operations,3/1/2023,2183
+1544,QRS08,Resignation,Lack of Career Opportunities,Senior Specialist,Operations,3/1/2023,15450
+1388,TUV08,Resignation,Starting Own Business,Manager,Administration,5/30/2021,19911
+1535,XYZ08,Resignation,Change of Career,Team Leader,General Services,3/1/2023,7815
+1540,ABC0108,Resignation,New Job Offer,Officer,Human Resouirces,12/1/2020,12330
+1550,DEF0108,Resignation,Family Reasons,Senior Officer,Operations,11/27/2021,4601
+1389,HIJ0108,Resignation,Moving Abroad,Analyst,Strategy,11/25/2020,4338
+1541,KLM0108,Resignation,Work Related Stress,Senior Analyst,Communication,2/28/2022,18662
+1546,NOP0108,Resignation,Starting A Family,Assistant,Administration,9/7/2020,10080
+1556,QRS0108,Resignation,Medical Reasons,Technician,Maintenance,12/29/2021,14837
+1370,TUV0108,Resignation,Management Problems,Mechanic,Maintenance,7/14/2020,9932
+1547,XYZ0108,Resignation,Salary Expectations,Helper,Maintenance,7/5/2023,15334
+1552,ABC0208,Resignation,Lack of Career Opportunities,Accountant,Finance,4/21/2024,3186
+1562,DEF0208,Resignation,Starting Own Business,Senior Accountant,Finance,4/1/2021,3584
